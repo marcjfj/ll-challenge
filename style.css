@@ -306,6 +306,9 @@ header .menu-button svg, .menu-close svg{
     text-align: left;
     padding: 30px 20px;
 }
+.slide-right-panel p{
+    margin: 0;
+}
 .swiper-nav{
     position: relative;
     width: 120px;
