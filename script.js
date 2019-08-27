@@ -306,7 +306,7 @@ var map = new google.maps.Map(document.getElementById('map'), {
     }
     ]
 });
-var pin = './assets/icons/Location_pin.svg';
+var pin = '/assets/icons/location_pin.svg';
 var marker = new google.maps.Marker({
     position: {lat: 38.970566, lng: -94.704446},
     title:"Snyder Recordings",
